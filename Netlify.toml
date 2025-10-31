@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"          # Match ALL URLs
+to = "/Work.html"    # Send them to your Work.html file
+status = 200         # Success status (not a redirect)
